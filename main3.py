@@ -11,4 +11,4 @@ while True:
         print("parol xato")    
     else:
         ("login x parol xato")
-        #fariza#2004
+        
